@@ -1,0 +1,128 @@
+﻿Longitude,Latitude,Specialty,Army,Air Force,Navy,Website,Color,Air Force spots available (2022),Navy spots available (2022)
+29.4598,-98.4167,BAMC Anesthesiology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Anesthesiology,green,6,NaN
+29.4598,-98.4167,BAMC Dermatology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Dermatology,green,0,NaN
+29.4598,-98.4167,BAMC Diagnostic Radiology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Diagnostic-Radiology,green,4,NaN
+29.4598,-98.4167,BAMC Emergency Medicine,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Emergency-Medicine,green,8,NaN
+29.4598,-98.4167,BAMC General Surgery,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/General-Surgery,green,4,NaN
+29.4598,-98.4167,BAMC Internal Medicine,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Internal-Medicine,green,25,NaN
+29.4598,-98.4167,BAMC Neurology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Neurology,green,4,NaN
+29.4598,-98.4167,BAMC OBGYN,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/OB-GYN,green,3,NaN
+29.4598,-98.4167,BAMC Ophthalmology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Ophthalmology,green,2,NaN
+29.4598,-98.4167,BAMC Orthopaedic Surgery,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Orthopaedic-Surgery,green,3,NaN
+29.4598,-98.4167,BAMC Otolaryngology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Otolaryngology,green,2,NaN
+29.4598,-98.4167,BAMC Pathology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Pathology,green,2,NaN
+29.4598,-98.4167,BAMC Pediatrics,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Pediatrics,green,7,NaN
+29.4598,-98.4167,BAMC Psychiatry,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Psychiatry,green,10,NaN
+29.4598,-98.4167,BAMC Transitional Year,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Transitional-Year,green,15,NaN
+29.4598,-98.4167,BAMC Urology,1,1,0,https://bamc.tricare.mil/About-Us/SAUSHEC/Residency-Information/Urology,green,1,NaN
+31.0751,-97.4624,CRDAMC Emergency Medicine,1,0,0,https://darnall.tricare.mil/Health-Services/Urgent-Emergency-Care/Emergency-Medicine,green,NaN,NaN
+31.0751,-97.4624,CRDAMC Family Medicine,1,0,0,https://darnall.tricare.mil/Clinics/Family-Medicine-Residency-Clinic-FMRC,green,NaN,NaN
+33.7629,-116.4041,EAMC Family Medicine,1,0,0,https://eisenhower.tricare.mil/Education/Internship-and-Residency-Programs/Family-Medicine-Residency,green,NaN,NaN
+33.7629,-116.4041,EAMC General Surgery,1,0,0,https://eisenhower.tricare.mil/Education/Internship-and-Residency-Programs/General-Surgery,green,NaN,NaN
+33.7629,-116.4041,EAMC Internal Medicine,1,0,0,https://eisenhower.tricare.mil/Education/Internship-and-Residency-Programs/Internal-Medicine,green,NaN,NaN
+33.7629,-116.4041,EAMC Orthopaedic Surgery,1,0,0,https://eisenhower.tricare.mil/Education/Internship-and-Residency-Programs/Orthopaedic-Surgery,green,NaN,NaN
+33.7629,-116.4041,EAMC Transitional Year,1,0,0,https://eisenhower.tricare.mil/Education/Internship-and-Residency-Programs/Transitional-Year,green,NaN,NaN
+38.7057,-77.1431,Fort Belvoir Family Medicine,1,1,1,https://belvoirhospital.tricare.mil/About-Us/Education-Research/Research-Programs/Family-Medicine-Residency,green,4,5
+47.1098,-122.5521,MAMC Diagnostic Radiology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Diagnostic-Radiology,green,NaN,NaN
+47.1098,-122.5521,MAMC Emergency Medicine,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Emergency-Medicine,green,NaN,NaN
+47.1098,-122.5521,MAMC Family Medicine,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Family-Medicine-Residency,green,NaN,NaN
+47.1098,-122.5521,MAMC General Surgery,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/General-Surgery,green,NaN,NaN
+47.1098,-122.5521,MAMC Internal Medicine,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Internal-Medicine,green,NaN,NaN
+47.1098,-122.5521,MAMC Neurology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Neurology,green,NaN,NaN
+47.1098,-122.5521,MAMC OBGYN,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/OBGYN,green,NaN,NaN
+47.1098,-122.5521,MAMC Ophthalmology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Ophthalmology,green,NaN,NaN
+47.1098,-122.5521,MAMC Orthopaedic Surgery,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Orthopedic-Surgery,green,NaN,NaN
+47.1098,-122.5521,MAMC Otolaryngology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Otolaryngology,green,NaN,NaN
+47.1098,-122.5521,MAMC Pathology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Pathology,green,NaN,NaN
+47.1098,-122.5521,MAMC Pediatrics,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Pediatrics,green,NaN,NaN
+47.1098,-122.5521,MAMC Preventative Health / Public Health,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Preventive-Medicine-and-Public-Health,green,NaN,NaN
+47.1098,-122.5521,MAMC Transitional Year,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Transitional-Year-Program,green,NaN,NaN
+47.1098,-122.5521,MAMC Urology,1,0,0,https://madigan.tricare.mil/About-Us/Graduate-Medical-Education/Urology,green,NaN,NaN
+32.3531,-84.9552,Martin Army Community Hospital Family Medicine,1,0,0,https://martin.tricare.mil/Health-Services/Primary-Care/Family-Medicine-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC Diagnostic Radiology,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Diagnostic-Radiology-Residency-and-Education,green,NaN,NaN
+21.3596,-157.8904,TAMC Family Medicine,1,0,0,https://tripler.tricare.mil/Health-Services/Primary-Care/Family-Medicine/Residency-Program,green,NaN,NaN
+21.3596,-157.8904,TAMC General Surgery,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/General-Surgery-Program,green,NaN,NaN
+21.3596,-157.8904,TAMC Internal Medicine,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Internal-Medicine-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC OBGYN,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Obstetrics-and-Gynecology-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC Orthopaedic Surgery,1,0,0,https://tripler.tricare.mil/Health-Services/Specialty-Care/Orthopedics-Podiatry-Clinic/Orthopaedic-Surgery-Program,green,NaN,NaN
+21.3596,-157.8904,TAMC Otolaryngology,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Otolaryngology-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC Pediatrics,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Pediatric-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC Psychiatry,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Psychiatry-Residency,green,NaN,NaN
+21.3596,-157.8904,TAMC Transitional Year,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Transitional-Year-Program,green,NaN,NaN
+21.3596,-157.8904,TAMC Urology,1,0,0,https://tripler.tricare.mil/About-Us/Training-and-Education/Graduate-Medical-Education/Urology-Residency,green,NaN,NaN
+35.1462,-79.0021,WAMC Family Medicine,1,0,0,https://womack.tricare.mil/About-Us/Department-of-Medical-Education/Graduate-Medical-Education/Family-Medicine-Residency-Program,green,NaN,NaN
+35.1462,-79.0021,WAMC OBGYN,1,0,0,https://womack.tricare.mil/About-Us/Department-of-Medical-Education/Graduate-Medical-Education/Obstetrics-and-Gynecology-Residency-Program,green,NaN,NaN
+35.1462,-79.0021,WAMC General Surgery,1,0,0,https://womack.tricare.mil/About-Us/Department-of-Medical-Education/Graduate-Medical-Education/General-Surgery-Residency,green,NaN,NaN
+35.1462,-79.0021,WAMC Internal Medicine,1,0,0,https://womack.tricare.mil/About-Us/Department-of-Medical-Education/Graduate-Medical-Education/Internal-Medicine-Residency,green,NaN,NaN
+31.8218,-106.4616,WBAMC General Surgery,1,0,0,https://william-beaumont.tricare.mil/Health-Services/Hospital-Care-Surgery/Surgery,green,NaN,NaN
+31.8218,-106.4616,WBAMC Internal Medicine,1,0,0,https://william-beaumont.tricare.mil/Academics/Graduate-Medical-Education-GME/Internal-Medicine-Residency-Program,green,NaN,NaN
+31.8218,-106.4616,WBAMC Orthopaedic Surgery,1,0,0,https://william-beaumont.tricare.mil/Health-Services/Hospital-Care-Surgery/Surgery/Orthopedic-Surgery-Residency-Program,green,NaN,NaN
+31.8218,-106.4616,WBAMC Transitional Year,1,0,0,https://william-beaumont.tricare.mil/Academics/Graduate-Medical-Education-GME/Transitional-Year-Internship,green,NaN,NaN
+39.0016,-77.0935,WRNMMC Adult Neurology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Adult-Neurology-Residency,green,0,0
+39.0016,-77.0935,WRNMMC Child Neurology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Child-Neurology-Residency-Program,green,0,0
+39.0016,-77.0935,WRNMMC Dermatology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/National-Capital-Consortium-NCC-Dermatology-Residency-Program,green,0,0
+39.0016,-77.0935,WRNMMC Diagnostic Radiology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/National-Capital-Consortium-Diagnostic-Radiology-Residency,green,1,0
+39.0016,-77.0935,WRNMMC General Surgery,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-General-Surgery-Residency-Program,green,0,7
+39.0016,-77.0935,WRNMMC Internal Medicine,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/General-Internal-Medicine-Fellowship/Internal-Medicine-Residency,green,1,15
+39.0016,-77.0935,WRNMMC Internal Medicine/Psychiatry,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/General-Internal-Medicine-Fellowship/Combined-Internal-Medicine-Psychiatry-Residency,green,0,0
+39.0016,-77.0935,WRNMMC Neurosurgery,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Neurosurgery-Residency-Program,green,0,1
+39.0016,-77.0935,WRNMMC OBGYN,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Residency-in-Obstetrics-Gynecology,green,1,1
+39.0016,-77.0935,WRNMMC Orthopaedic Surgery,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Orthopaedic-Clerkship-Internship-Residency,green,0,3
+39.0016,-77.0935,WRNMMC Otolarnygology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Otolaryngology-Head-Neck-Surgery,green,0,1
+39.0016,-77.0935,WRNMMC Pathology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Anatomic-and-Clinical-Pathology-Residency,green,0,0
+39.0016,-77.0935,WRNMMC Pediatrics,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/National-Capital-Consortium-Pediatrics-Residency,green,4,1
+39.0016,-77.0935,WRNMMC Physical Medicine and Rehabilitation,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Physical-Medicine-Rehabilitation-Residency,green,0,0
+39.0016,-77.0935,WRNMMC Psychiatry,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Psychiatry-Residency-Program,green,0,4
+39.0016,-77.0935,WRNMMC Radiation Oncology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/Radiation-Oncology,green,0,0
+39.0016,-77.0935,WRNMMC Transitional Year,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/Transitional-Year-Internship,green,1,11
+39.0016,-77.0935,WRNMMC Urology,1,1,1,https://walterreed.tricare.mil/About-Us/Graduate-Medical-Education/Graduate-Medical-Education-Programs/NCC-Walter-Reed-Urology-Residency-Program,green,0,1
+30.4636,-86.5533,Eglin AFB Family Medicine,0,1,0,https://www.eglinfmr.com,blue,11,NaN
+30.4094,-88.9253,Keesler AFB Internal Medicine,0,1,0,https://www.keesler.af.mil/Units/81st-Training-Wing/Graduate-Medical-Education/Internal-Medicine-Residency,blue,9,NaN
+30.4094,-88.9253,Keesler AFB General Surgery,0,1,0,https://www.keesler.af.mil/Units/81st-Training-Wing/Graduate-Medical-Education/General-Surgery/,blue,4,NaN
+36.2406,-115.0543,Nellis AFB Family Medicine,0,1,0,https://www.nellis.af.mil/Units/Mike-OCallaghan-Military-Medical-Center/FMR/,blue,9,NaN
+36.2406,-115.0543,Nellis AFB Emergency Medicine,0,1,0,https://nellis.tricare.mil/Academics/Graduate-Medical-Education/Emergency-Medicine,blue,4,NaN
+36.2406,-115.0543,Nellis AFB General Surgery,0,1,0,https://nellis.tricare.mil/Academics/Graduate-Medical-Education/General-Surgery,,5,NaN
+36.2406,-115.0543,Nellis AFB OBGYN,0,1,0,https://nellis.tricare.mil/Academics/Graduate-Medical-Education/Gynecologic-Surgery-and-Obstetrics,,2,NaN
+41.1243,-95.9146,Offutt AFB Family Medicine,0,1,0,https://www.unmc.edu/familymed/residency/omaha-track/programs/united-states-air-force-residency.html,blue,7,NaN
+38.5416,-89.855,Scott AFB Family Medicine,0,1,0,https://www.slu.edu/medicine/family-medicine/southwest-il-residency/index.php,blue,7,NaN
+38.2721,-121.9399,Travis AFB Diagnostic Radiology,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Diagnostic-Radiology-Residency-Program,blue,0,NaN
+38.2721,-121.9399,Travis AFB Emergency Medicine,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Emergency-Medicine-Residency-Program,blue,0,NaN
+38.2721,-121.9399,Travis AFB Family Medicine,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Family-Medicine-Residency-Program,blue,11,NaN
+38.2721,-121.9399,Travis AFB General Surgery,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/General-Surgery-Residency-Program,blue,10,NaN
+38.2721,-121.9399,Travis AFB Internal Medicine,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Internal-Medicine-Residency-Program,blue,2,NaN
+38.2721,-121.9399,Travis AFB Transitional Year,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Transitional-Year-Residency-Program,blue,0,NaN
+38.2721,-121.9399,Travis AFB Vascular Surgery,0,1,0,https://www.airforcemedicine.af.mil/Organizations/Graduate-Medical-Education/Residency-Programs/Vascular-Surgery-Residency-Program,blue,1,NaN
+39.78784195,-84.0817957,USAF School of Aerospace Medicine - Aerospace Medicine,0,1,0,https://www.wpafb.af.mil/afrl/711hpw/USAFSAM/Operational-Graduate-Medicine-Education-program,blue,13,NaN
+39.464057,-84.034234,Wright Patterson/WSU Emergency Medicine,0,1,0,https://medicine.wright.edu/emergency-medicine/residency-program,blue,8,NaN
+39.464057,-84.034234,Wright Patterson/WSU General Surgery,0,1,0,https://medicine.wright.edu/surgery/residency-program,blue,8,NaN
+39.464057,-84.034234,Wright Patterson/WSU Internal Medicine,0,1,0,https://medicine.wright.edu/internal-medicine-and-neurology,blue,15,NaN
+39.464057,-84.034234,Wright Patterson/WSU OBGYN,0,1,0,https://medicine.wright.edu/obstetrics-and-gynecology/residency-program,blue,3,NaN
+39.464057,-84.034234,Wright Patterson/WSU Pediatrics,0,1,0,https://medicine.wright.edu/pediatrics/residency-program,blue,7,NaN
+39.464057,-84.034234,Wright Patterson/WSU Psychiatry,0,1,0,https://medicine.wright.edu/psychiatry/residency-program,blue,7,NaN
+34.6251,-77.4013,NMCCL Family Medicine,0,0,1,https://camp-lejeune.tricare.mil/About-Us/Residency-Program,yellow,NaN,10
+33.3178,-117.3205,NHCP Family Medicine,0,0,1,https://camp-pendleton.tricare.mil/about-us/residency-program,yellow,NaN,13
+30.22,-81.685,NHJ Family Medicine,0,0,1,https://jacksonville.tricare.mil/About-Us/Family-Medicine-Residency,yellow,NaN,13
+36.8441,-76.3048,NMCP General Surgery,0,0,1,https://portsmouth.tricare.mil/Portals/130/General%20Surgery%20NMCP%20Residency%20Info%20Packet.pdf,yellow,NaN,12
+36.8441,-76.3048,NMCP Internal Medicine,0,0,1,https://portsmouth.tricare.mil/Portals/130/Internal%20Medicine%20NMCP%20recruitment%20flyer%202020.pdf,yellow,NaN,15
+36.8441,-76.3048,NMCP OBGYN,0,1,1,https://portsmouth.tricare.mil/Research-Education/Graduate-Medical-Education-Dental-Programs/Residencies-Internships/OB-GYN,yellow,3,2
+36.8441,-76.3048,NMCP Orthopaedic Surgery,0,0,1,https://portsmouth.tricare.mil/Portals/130/Orthopedic%20Surgery%20Residency%20fall%202019%20latest.pdf,yellow,NaN,2
+36.8441,-76.3048,NMCP Psychiatry,0,0,1,https://portsmouth.tricare.mil/Research-Education/Graduate-Medical-Education-Dental-Programs/Residencies-Internships/Psychiatry,yellow,NaN,6
+36.8441,-76.3048,NMCP Pediatrics,0,1,1,https://portsmouth.tricare.mil/Portals/130/Pediatrics%20NMCP%20%20One%20Pager.pdf,yellow,6,4
+36.8441,-76.3048,NMCP Transitional Year,0,1,1,https://portsmouth.tricare.mil/Portals/130/Transitional%20Year%20Program%20BrochureNMCP2020.pdf,yellow,1,22
+36.8441,-76.3048,NMCP Emergency Medicine,0,0,1,https://portsmouth.tricare.mil/Portals/130/Emergency%20Medicine%20Residency_Brochure_AY_19_20_v13_MAY_2020%20%28002%29.pdf,yellow,NaN,0
+36.8441,-76.3048,NMCP Diagnostic Radiology,0,1,1,https://portsmouth.tricare.mil/Portals/130/NMCP%20Diagnostic%20Radiology%20Residency%20Program%20pdf.pdf,yellow,1,0
+32.6848,-117.13,NMCSD General Surgery,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/General-Surgery,yellow,NaN,11
+32.6848,-117.13,NMCSD Internal Medicine,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Internal-Medicine,yellow,NaN,15
+32.6848,-117.13,NMCSD OBGYN,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Obstetrics-Gynecology-Ob-Gyn,yellow,NaN,4
+32.6848,-117.13,NMCSD Orthopaedic Surgery,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Orthopaedic-Surgery,yellow,NaN,1
+32.6848,-117.13,NMCSD Psychiatry,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Psychiatry,yellow,NaN,8
+32.6848,-117.13,NMCSD Pediatrics,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Pediatrics,yellow,NaN,5
+32.6848,-117.13,NMCSD Transitional Year,0,1,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Transitional-Year,yellow,1,22
+32.6848,-117.13,NMCSD Emergency Medicine,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Emergency-Medicine,yellow,NaN,10
+32.6848,-117.13,NMCSD Diagnostic Radiology,0,1,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Radiology,yellow,1,0
+32.6848,-117.13,NMCSD Anesthesiology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Anesthesiology,yellow,NaN,0
+32.6848,-117.13,NMCSD Dermatology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Dermatology,yellow,NaN,0
+32.6848,-117.13,NMCSD Otolaryngology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Otolaryngology,yellow,NaN,1
+32.6848,-117.13,NMCSD Ophthalmology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Ophthalmology,yellow,NaN,0
+32.6848,-117.13,NMCSD Pathology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Pathology,yellow,NaN,0
+32.6848,-117.13,NMCSD Urology,0,0,1,https://sandiego.tricare.mil/Graduate-Medical-Education/GME-Programs/Sponsored-Programs/Urology,yellow,NaN,2
